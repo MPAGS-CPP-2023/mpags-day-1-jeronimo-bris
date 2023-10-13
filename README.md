@@ -5,7 +5,7 @@ A simple command line tool for encrypting/decrypting text using classical cipher
 Installation instructions
 
 ## Authors
-- Author 1
+- Jeronimo Segal
 - Author 2
 
 ## Documentation

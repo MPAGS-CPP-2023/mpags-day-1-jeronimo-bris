@@ -9,4 +9,4 @@ Installation instructions
 - Author 2
 
 ## Documentation
-
+- Takes input and runs a variety of classical ciphers to produce output

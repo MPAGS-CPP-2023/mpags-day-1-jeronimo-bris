@@ -7,3 +7,6 @@ Installation instructions
 ## Authors
 - Author 1
 - Author 2
+
+## Documentation
+

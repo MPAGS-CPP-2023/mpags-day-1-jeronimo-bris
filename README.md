@@ -6,7 +6,7 @@ Installation instructions
 
 ## Authors
 - Jeronimo Segal
-- Author 2
+- Dan Milner
 
 ## Documentation
 - Takes input and runs a variety of classical ciphers to produce output
